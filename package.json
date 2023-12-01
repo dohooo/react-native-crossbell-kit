@@ -1,6 +1,6 @@
 {
   "name": "react-native-crossbell-kit",
-  "version": "0.1.0",
+  "version": "0.0.0-alpha.0",
   "description": "A functional component library designed for building dApps on Crossbell!",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
